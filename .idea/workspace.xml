@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="338d85ab-3cc1-47c8-8951-3bcbbe29e84e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/os/exec.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/os.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/signal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/path/path.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/strings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/rand.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bufio/bufio.go" beforeDir="false" afterPath="$PROJECT_DIR$/bufio/bufio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strconv/strconv.go" beforeDir="false" afterPath="$PROJECT_DIR$/strconv/strconv.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,20 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="strings.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strings/strings.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +40,8 @@
         <option value="$PROJECT_DIR$/os/user.go" />
         <option value="$PROJECT_DIR$/path/path.go" />
         <option value="$PROJECT_DIR$/strings/strings.go" />
+        <option value="$PROJECT_DIR$/strconv/strconv.go" />
+        <option value="$PROJECT_DIR$/math/rand.go" />
       </list>
     </option>
   </component>
@@ -91,6 +74,11 @@
             <path>
               <item name="gopkg" type="b2602c69:ProjectViewProjectNode" />
               <item name="gopkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gopkg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gopkg" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,10 +394,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strings/strings.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        <state relative-caret-position="505">
+          <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strconv/strconv.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/rand.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
