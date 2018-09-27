@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="338d85ab-3cc1-47c8-8951-3bcbbe29e84e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/container/list.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto/md5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto/sha256.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding/csv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding/gob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding/user.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encoding/xml.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flag/flag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fmt/fmt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonrpc/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonrpc/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonrpc/types.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/log.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/sort.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testting/demo_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time/time.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="338d85ab-3cc1-47c8-8951-3bcbbe29e84e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/jsonrpc/client.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="449">
-              <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="82" />
+              <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
               <folding>
                 <element signature="e#14#50#0" expanded="true" />
               </folding>
@@ -124,8 +104,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="24" />
+    <option name="x" value="79" />
+    <option name="y" value="23" />
     <option name="width" value="1562" />
     <option name="height" value="987" />
   </component>
@@ -223,18 +203,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="24" width="1562" height="987" extended-state="0" />
+    <frame x="92" y="23" width="1562" height="987" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27631578" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006579" side_tool="true" weight="0.32921347" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32921347" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993421" visible="true" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -638,7 +618,7 @@
     <entry file="file://$PROJECT_DIR$/jsonrpc/client.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
-          <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="82" />
+          <caret line="30" column="82" lean-forward="true" selection-start-line="30" selection-start-column="82" selection-end-line="30" selection-end-column="82" />
           <folding>
             <element signature="e#14#50#0" expanded="true" />
           </folding>
